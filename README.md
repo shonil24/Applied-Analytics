@@ -17,3 +17,8 @@ Body measurements of different person such as chest, hip, shoulder,wrist, knee, 
 
 ### A4
 
+<div>
+<img style="width:30%" src="https://github.com/shonil24/Applied-Analytics/blob/master/A3/q1.png" width="300px" height="500px">
+<img style="width:30%" src="https://github.com/shonil24/Applied-Analytics/blob/master/A3/q2.png" width="300px" height="500px">
+<img style="width:30%" src="https://github.com/shonil24/Applied-Analytics/blob/master/A3/Rplot1.png" width="300px" height="500px">
+</div>
